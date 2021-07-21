@@ -1,1 +1,0 @@
-var idade = window.prompt('escreva a sua idade');
